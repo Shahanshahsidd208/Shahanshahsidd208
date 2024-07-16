@@ -1,10 +1,11 @@
-<h1 align="center" style="color: purple;">Hello World! 🌟 I'm Shahanshah Siddiqui</h1>
-<h3 align="center">Passionate Programmer, Learner, React Developer, and Innovator</h3>
+
+<img src="https://github.com/user-attachments/assets/dde7e38e-65d1-4c48-8709-b8b79b5a30f7" alt="Image">
+
 
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFiNzZhZDI3N3RoZjY1ZjYya2JiMW1kajcyYW80bzc4aGprOWlubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Animated GIF">
 </div>
-
+<h3 align="center">Passionate Programmer, Learner, React Developer, and Innovator</h3>
 - 📫 How to reach me: <a href="mailto:shahanshahsidd208@gmail.com">shahanshahsidd208@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
@@ -68,7 +69,7 @@
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/shahanshahsidd208?cardType=github&theme=midnight-purple&preferLogin=false&Background=000000" alt="My Awesome Stats" />
   </a>
 <a href="https://github.com/Shahanshahsidd208">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahanshahsidd208&layout=donut&theme=midnight-purple" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahanshahsidd208&layout=donut&theme=midnight-purple&text_bold=true&show_icons=true" alt="Top Languages" />
 </a>
 </div>
 <h3 align="left">Top Repositories:</h3>
@@ -76,10 +77,10 @@
 
 
 <a href="https://github.com/Shahanshahsidd208/KSP-Profile-Analysis-dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shahanshahsidd208&repo=KSP-Profile-Analysis-dashboard&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shahanshahsidd208&repo=KSP-Profile-Analysis-dashboard&theme=midnight-purple&description_lines_count=3&text_bold=true&show_icons=true" />
 </a>
 <a href="https://github.com/Shahanshahsidd208/Anonymous-reporting">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shahanshahsidd208&repo=Anonymous-reporting&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shahanshahsidd208&repo=Anonymous-reporting&theme=midnight-purple&description_lines_count=3&text_bold=true&show_icons=true" />
 </a>
 </div>
 

@@ -1,7 +1,9 @@
 <h1 align="center">Hello World! 🌟 I'm Shahanshah Siddiqui</h1>
 <h3 align="center">Passionate Programmer, Learner, React developer, and Innovator</h3>
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">via GIPHY</a></p>
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF">
+</div>
 
 - 📫 How to reach me shahanshahsidd208@gmail.com
 

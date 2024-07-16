@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Programmer, Learner, React developer, and Innovator</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFiNzZhZDI3N3RoZjY1ZjYya2JiMW1kajcyYW80bzc4aGprOWlubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Animated GIF">
 </div>
 
 - 📫 How to reach me shahanshahsidd208@gmail.com
@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/shahanshah-siddiqui-851354304/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shahanshah Siddiqui" height="30" width="40" /></a>
 <a href="https://www.instagram.com/iam_s.siddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Shahanshah Siddiqui" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="Shahanshah Siddiqui" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

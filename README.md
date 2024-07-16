@@ -71,5 +71,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahanshahsidd208&layout=donut&theme=midnight-purple" alt="Top Languages" />
 </a>
 </div>
+<h3 align="left">Top Repositories:</h3>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=midnight-purple" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=midnight-purple" />
+</a>
+</div>
 

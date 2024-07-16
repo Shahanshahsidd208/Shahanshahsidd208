@@ -75,8 +75,8 @@
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=midnight-purple" />
+<a href="https://github.com/Shahanshahsidd208/KSP-Profile-Analysis-dashboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shahanshahsidd208&repo=KSP-Profile-Analysis-dashboard&theme=midnight-purple" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=midnight-purple" />

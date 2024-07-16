@@ -2,8 +2,9 @@
 <img src="https://github.com/user-attachments/assets/dde7e38e-65d1-4c48-8709-b8b79b5a30f7" alt="Image">
 
 
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFiNzZhZDI3N3RoZjY1ZjYya2JiMW1kajcyYW80bzc4aGprOWlubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Animated GIF">
+
+<div align="center" >
+  <img src="https://github.com/user-attachments/assets/b4c31ccd-2dd4-4796-8e19-88cd59803c03" alt="Animated GIF">
 </div>
 <h3 align="center">Passionate Programmer, Learner, React Developer, and Innovator</h3>
 - 📫 How to reach me: <a href="mailto:shahanshahsidd208@gmail.com">shahanshahsidd208@gmail.com</a>

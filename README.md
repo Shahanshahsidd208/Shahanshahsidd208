@@ -78,8 +78,6 @@
 <a href="https://github.com/Shahanshahsidd208/KSP-Profile-Analysis-dashboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shahanshahsidd208&repo=KSP-Profile-Analysis-dashboard&theme=midnight-purple" />
 </a>
-<a href="https://github.com/Shahanshahsidd208/Anonymous-reporting">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shahanshahsidd208&repo=Anonymous-reporting&theme=midnight-purple" />
-</a>
+
 </div>
 

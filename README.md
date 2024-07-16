@@ -65,6 +65,7 @@
   </a>
 </p>
 
+<h3 align="left">GitHub Stats:</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://git.io/awesome-stats-card">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/shahanshahsidd208?cardType=github&theme=midnight-purple&preferLogin=false&Background=000000" alt="My Awesome Stats" />

@@ -73,6 +73,7 @@
 <a href="https://github.com/Shahanshahsidd208">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahanshahsidd208&layout=donut&theme=midnight-purple&text_bold=true&show_icons=true" alt="Top Languages" />
 </a>
+<!--  <img src="https://github-profile-trophy.vercel.app/?username=Shahanshahsidd208" />  use this when i will be having good repos-->
 </div>
 <h3 align="left">Top Repositories:</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
